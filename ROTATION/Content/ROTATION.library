@@ -1,0 +1,7 @@
+ContentLibrary = 
+{
+	string Name = "ROTATION",
+	uint64 LibraryId = 5a2e96d449b12990,
+	string SourceControlType = "",
+	bool ReadOnly = false,
+},

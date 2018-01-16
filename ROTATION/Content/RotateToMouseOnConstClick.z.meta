@@ -1,0 +1,8 @@
+TextContent = 
+{
+	ZilchScriptBuilder = 
+	{
+		string Name = "RotateToMouseOnConstClick",
+		uint64 ResourceId = 5a2e9315fad7eef1,
+	},
+},

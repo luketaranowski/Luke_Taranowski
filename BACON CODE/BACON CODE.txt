@@ -1,0 +1,7 @@
+#include <Bacon>
+
+int main(bacon)
+{
+  int Bacon = 10;
+  Bacon += 20
+}
